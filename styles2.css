@@ -1,0 +1,66 @@
+body {
+    background-color: #1c1c1c;
+    color: #c9c3c3;
+    font-family: 'Arial', sans-serif;
+}
+
+.container_info {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.container_info img {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.info_text {
+    margin-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80px;
+}
+
+#nombre-personaje {
+    font-size: 2rem;
+}
+
+.personaje-info h2 {
+    font-size: 24px;
+}
+
+.personaje-info h3 {
+    font-size: 18px;
+}
+
+.personaje-info p {
+    font-size: 14px;
+}
+
+
+
+.btn-primary {
+    background-color: #a5a1a1;
+    border: none;
+    border-radius: 15px;
+    padding: 5px 10px;
+    color: #151515;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #a5a1a1;
+    transform: scale(1.05);
+}
+
+.btn-primary:active {
+    background-color: #a5a1a1; 
+    border: none; 
+    box-shadow: none; 
+    transform: none; }

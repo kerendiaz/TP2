@@ -1,0 +1,406 @@
+[
+    {
+        "id": 1,
+        "nombre": "Daenerys Targaryen",
+        "casa": "Targaryen",
+        "altura": "1.55m",
+        "apodo": "La Madre de Dragones",
+        "imagen": "https://i.postimg.cc/13qRQKd2/703-Daenerys-Targaryen-1.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Jon Snow",
+        "casa": "Stark",
+        "altura": "1.73m",
+        "apodo": "El Bastardo de Invernalia",
+        "imagen": "https://i.postimg.cc/xdj6D6x3/a149ca308184a8984666979a6b1c4cb7.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Tyrion Lannister",
+        "casa": "Lannister",
+        "altura": "1.35m",
+        "apodo": "El Gnomo",
+        "imagen": "https://i.postimg.cc/k43Py3Xg/Tyrion-Lannister-tyrion-lannister-35417095-3333-5000.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Cersei Lannister",
+        "casa": "Lannister",
+        "altura": "1.65m",
+        "apodo": "La Reina",
+        "imagen": "https://i.postimg.cc/xCrtZ9zB/Cersei-Lannister-cersei-lannister-37474921-4912-7360.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Arya Stark",
+        "casa": "Stark",
+        "altura": "1.60m",
+        "apodo": "Nadie",
+        "imagen": "https://i.postimg.cc/BZPM0Lgk/704-Arya-Profil.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Sansa Stark",
+        "casa": "Stark",
+        "altura": "1.68m",
+        "apodo": "La Reina del Norte",
+        "imagen": "https://i.postimg.cc/Yq28Znv2/11104190.webp"
+    },
+    {
+        "id": 7,
+        "nombre": "Bran Stark",
+        "casa": "Stark",
+        "altura": "1.70m",
+        "apodo": "El Cuervo de Tres Ojos",
+        "imagen": "https://i.postimg.cc/jjfhPBFc/146e29ac2ece208aee5824779644fa27.png"
+    },
+    {
+        "id": 8,
+        "nombre": "Jaime Lannister",
+        "casa": "Lannister",
+        "altura": "1.85m",
+        "apodo": "El Matarreyes",
+        "imagen": "https://i.postimg.cc/cCxMqC4k/Jaime-Season-4-Go-T.webp"
+    },
+    {
+        "id": 9,
+        "nombre": "Petyr Baelish",
+        "casa": "Baelish",
+        "altura": "1.80m",
+        "apodo": "Littlefinger",
+        "imagen": "https://i.postimg.cc/KYYDsRj9/Profile-Littlefinger.webp"
+    },
+    {
+        "id": 10,
+        "nombre": "Sandor Clegane",
+        "casa": "Clegane",
+        "altura": "1.95m",
+        "apodo": "El Perro",
+        "imagen": "https://i.postimg.cc/wvf3vjQG/Sandor-Clegane-sandor-clegane-33642208-2515-3780.jpg"
+    },
+    {
+        "id": 11,
+        "nombre": "Olenna Tyrell",
+        "casa": "Tyrell",
+        "altura": "1.60m",
+        "apodo": "La Reina de Espinas",
+        "imagen": "https://i.postimg.cc/j5H2HhTB/Olenna-season-6-a.webp"
+    },
+    {
+        "id": 12,
+        "nombre": "Brienne de Tarth",
+        "casa": "Tarth",
+        "altura": "1.88m",
+        "apodo": "La Doncella Guerrera",
+        "imagen": "https://i.postimg.cc/2SsQk2SZ/e1624515204619016c26cd2012764458.jpg"
+    },
+    {
+        "id": 13,
+        "nombre": "Samwell Tarly",
+        "casa": "Tarly",
+        "altura": "1.75m",
+        "apodo": "El Sabio",
+        "imagen": "https://i.postimg.cc/fTbjBVPJ/S8-Samwell-Profil.webp"
+    },
+    {
+        "id": 14,
+        "nombre": "Jorah Mormont",
+        "casa": "Mormont",
+        "altura": "1.83m",
+        "apodo": "El Exiliado",
+        "imagen": "https://i.postimg.cc/65SRcYRm/Jorah-Mormont-jorah-mormont-37385182-1832-2676.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "Theon Greyjoy",
+        "casa": "Greyjoy",
+        "altura": "1.80m",
+        "apodo": "El Príncipe de las Islas",
+        "imagen": "https://i.postimg.cc/6p49VhLz/Theon-Season-7.webp"
+    },
+    {
+        "id": 16,
+        "nombre": "Yara Greyjoy",
+        "casa": "Greyjoy",
+        "altura": "1.70m",
+        "apodo": "La Princesa del Mar",
+        "imagen": "https://i.postimg.cc/RZtBJZ4D/Yara-Greyjoy.webp"
+    },
+    {
+        "id": 17,
+        "nombre": "Varys",
+        "casa": "Sin Casa",
+        "altura": "1.73m",
+        "apodo": "El Espía",
+        "imagen": "https://i.postimg.cc/fLznP7XG/varys-game-of-thrones-58bace0e5f9b58af5cb665c7.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "Melisandre",
+        "casa": "Sin Casa",
+        "altura": "1.70m",
+        "apodo": "La Roja",
+        "imagen": "https://i.postimg.cc/dQ5Gkq0v/670047.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "Davos Seaworth",
+        "casa": "Sin Casa",
+        "altura": "1.80m",
+        "apodo": "El Caballero de la Cebolla",
+        "imagen": "https://i.postimg.cc/3rb5Lvwq/1118full-davos-seaworth.jpg"
+    },
+    {
+        "id": 20,
+        "nombre": "Ramsay Bolton",
+        "casa": "Bolton",
+        "altura": "1.78m",
+        "apodo": "El Bastardo",
+        "imagen": "https://i.postimg.cc/fWPp7Q2n/Ramsay-S06-E09-RESZIED-FOR-INFOBOX.webp"
+    },
+    {
+        "id": 21,
+        "nombre": "Gendry",
+        "casa": "Baratheon",
+        "altura": "1.80m",
+        "apodo": "El Bastardo de Robert",
+        "imagen": "https://i.postimg.cc/rss0CrpT/Gendry-Waters-gendry-37245833-2832-4256.jpg"
+    },
+    {
+        "id": 22,
+        "nombre": "Margaery Tyrell",
+        "casa": "Tyrell",
+        "altura": "1.68m",
+        "apodo": "La Flor",
+        "imagen": "https://i.postimg.cc/kg3HZFPT/Margaery-Tyrell.webp"
+    },
+    {
+        "id": 23,
+        "nombre": "Khal Drogo",
+        "casa": "Sin Casa",
+        "altura": "1.90m",
+        "apodo": "El Gran Khal",
+        "imagen": "https://i.postimg.cc/g0GTczJR/Khal-Drogo.webp"
+    },
+    {
+        "id": 24,
+        "nombre": "Tywin Lannister",
+        "casa": "Lannister",
+        "altura": "1.80m",
+        "apodo": "El León",
+        "imagen": "https://i.postimg.cc/Sss18gcx/tumblr-n0lu05-PW0-A1trm4i3o1-1280.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "Stannis Baratheon",
+        "casa": "Baratheon",
+        "altura": "1.80m",
+        "apodo": "El Rey Justo",
+        "imagen": "https://i.postimg.cc/L6zYk29n/got-game-of-thrones-34775394-2832-4256.jpg"
+    },
+    {
+        "id": 26,
+        "nombre": "Renly Baratheon",
+        "casa": "Baratheon",
+        "altura": "1.82m",
+        "apodo": "El Rey de la Fiesta",
+        "imagen": "https://i.postimg.cc/MpwSR8HZ/0df2c3b65e15eeda44c529c5a7fb7cc4c68da1c3r1-720-1080v2-hq.jpg"
+    },
+    {
+        "id": 27,
+        "nombre": "Rickon Stark",
+        "casa": "Stark",
+        "altura": "1.20m",
+        "apodo": "El Pequeño",
+        "imagen": "https://i.postimg.cc/HLs1Z4bf/af0a4cd5c233e8885007a11f0415b8ed.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "Missandei",
+        "casa": "Sin Casa",
+        "altura": "1.65m",
+        "apodo": "La Traductora",
+        "imagen": "https://i.postimg.cc/tC5rS0D4/Profile-Missandei-PNG.webp"
+    },
+    {
+        "id": 29,
+        "nombre": "Grey Worm",
+        "casa": "Sin Casa",
+        "altura": "1.75m",
+        "apodo": "El Comandante",
+        "imagen": "https://i.postimg.cc/8CqwJTkt/Grey-Worm-Longer.webp"
+    },
+    {
+        "id": 30,
+        "nombre": "Euron Greyjoy",
+        "casa": "Greyjoy",
+        "altura": "1.85m",
+        "apodo": "El Pirata",
+        "imagen": "https://i.postimg.cc/VkKN4N3L/5ee9b7e9475bfa2a10fb5b81564af14a.png"
+    },
+    {
+        "id": 31,
+        "nombre": "Podrick Payne",
+        "casa": "Sin Casa",
+        "altura": "1.70m",
+        "apodo": "El Escudero",
+        "imagen": "https://i.postimg.cc/3wZdsB47/701-Podrick-Payn.webp"
+    },
+    {
+        "id": 32,
+        "nombre": "Tormund Giantsbane",
+        "casa": "Wildlings",
+        "altura": "1.90m",
+        "apodo": "El Gigante",
+        "imagen": "https://i.postimg.cc/Hxysp9jV/tormund-giantsbane-game-of-thrones-qhd-640x960.jpg"
+    },
+    {
+        "id": 33,
+        "nombre": "Bronn",
+        "casa": "Sin Casa",
+        "altura": "1.80m",
+        "apodo": "El Mercenario",
+        "imagen": "https://i.postimg.cc/fLw0yFnJ/gn-gift-guide-variable-c.jpg"
+    },
+    {
+        "id": 34,
+        "nombre": "Ygritte",
+        "casa": "Wildlings",
+        "altura": "1.70m",
+        "apodo": "La Chica de Fuego",
+        "imagen": "https://i.postimg.cc/pdQjJjDh/Ygritte-promotionals4pic.webp"
+    },
+    {
+        "id": 35,
+        "nombre": "Hodor",
+        "casa": "Stark",
+        "altura": "1.98m",
+        "apodo": "Hodor",
+        "imagen": "https://i.postimg.cc/zBrKYvGZ/Season-6-hodor-main.webp"
+    },
+    {
+        "id": 36,
+        "nombre": "Jaqen H'ghar",
+        "casa": "Sin Casa",
+        "altura": "1.80m",
+        "apodo": "El Hombre de Muchos Rostros",
+        "imagen": "https://i.postimg.cc/zvN5qm9c/fc95c27e4b1295c1a73bab9cdecb700b.jpg"
+    },
+    {
+        "id": 37,
+        "nombre": "Gilly",
+        "casa": "Sin Casa",
+        "altura": "1.65m",
+        "apodo": "La Criada",
+        "imagen": "https://i.postimg.cc/cHhgqczw/Gilly-game-of-thrones-38518324-540-800.jpg"
+    },
+    {
+        "id": 38,
+        "nombre": "Maester Luwin",
+        "casa": "Stark",
+        "altura": "1.70m",
+        "apodo": "El Sabio",
+        "imagen": "https://i.postimg.cc/zvfLqgmM/maester-luwin-1920.avif"
+    },
+    {
+        "id": 39,
+        "nombre": "Shae",
+        "casa": "Sin Casa",
+        "altura": "1.65m",
+        "apodo": "La Concubina",
+        "imagen": "https://i.postimg.cc/mZdz88CG/7d368ebf546851da3a86013de81f0fe8.jpg"
+    },
+    {
+        "id": 40,
+        "nombre": "Daario Naharis",
+        "casa": "Sin Casa",
+        "altura": "1.83m",
+        "apodo": "El Capitán de los Inmaculados",
+        "imagen": "https://i.postimg.cc/fbhJJFnY/Daario-Naharis.webp"
+    },
+    {
+        "id": 41,
+        "nombre": "Lysa Arryn",
+        "casa": "Arryn",
+        "altura": "1.60m",
+        "apodo": "La Reina del Valle",
+        "imagen": "https://i.postimg.cc/mZ6kQhWL/lysa-arryn-ht-jef-190329-hp-Embed-2x3-992.jpg"
+    },
+    {
+        "id": 42,
+        "nombre": "Meryn Trant",
+        "casa": "Lannister",
+        "altura": "1.80m",
+        "apodo": "El Espía",
+        "imagen": "https://i.postimg.cc/cHL13GDt/Ser-Meryn.webp"
+    },
+    {
+        "id": 43,
+        "nombre": "Qyburn",
+        "casa": "Sin Casa",
+        "altura": "1.75m",
+        "apodo": "El Maestre",
+        "imagen": "https://i.postimg.cc/wTmqLVk2/85f3a234253232f6f5ff614e0d49be22.jpg"
+    },
+    {
+        "id": 44,
+        "nombre": "Myrcella Baratheon",
+        "casa": "Baratheon",
+        "altura": "1.55m",
+        "apodo": "La Princesa",
+        "imagen": "https://i.postimg.cc/k4G94F4x/Myrcella-Baratheon.webp"
+    },
+    {
+        "id": 45,
+        "nombre": "Tommen Baratheon",
+        "casa": "Baratheon",
+        "altura": "1.60m",
+        "apodo": "El Rey",
+        "imagen": "https://i.postimg.cc/wxStC3fW/693fe60755b137a20536c3b629fad608-king-tommen-king-joffrey.jpg"
+    },
+    {
+        "id": 46,
+        "nombre": "Beric Dondarrion",
+        "casa": "Dondarrion",
+        "altura": "1.80m",
+        "apodo": "El Señor de la Luz",
+        "imagen": "https://i.postimg.cc/Z5LCvHTg/706-Beric-Profil.webp"
+    },
+    {
+        "id": 47,
+        "nombre": "The Night King",
+        "casa": "Sin Casa",
+        "altura": "2.00m",
+        "apodo": "El Rey de la Noche",
+        "imagen": "https://i.postimg.cc/MHRG6bP9/1338121.jpg"
+    },
+    {
+       "id": 48,
+        "nombre": "Robert Baratheon",
+        "casa": "Baratheon",
+        "altura": "1.85m",
+        "apodo": "El Rey Robert",
+        "imagen": "https://i.postimg.cc/XYxYYvL6/Game-of-Thrones-game-of-thrones-24946815-1000-1503.jpg"
+    },
+    {
+        "id": 49,
+        "nombre": "Viserys Targaryen",
+        "casa": "Targaryen",
+        "altura": "1.80m",
+        "apodo": "El Rey Mendigo",
+        "imagen": "https://i.postimg.cc/mgdTG5Zb/Viserys-Targaryen-game-of-thrones-20316889-1249-2048.jpg"
+    },
+    {
+        "id": 50,
+        "nombre": "Joffrey Baratheon",
+        "casa": "Baratheon",
+        "altura": "1.75m",
+        "apodo": "El Rey Joffrey",
+        "imagen": "https://i.postimg.cc/x1dSg3vB/Joffrey-Baratheon.webp"
+    }
+]
+
+
+
+
